@@ -1,0 +1,16 @@
+{
+  "name": "pureje7testserver",
+  "version": "0.0.1",
+  "description": "Ardas JS training. Pure.js #7 test REST server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "taldy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.0"
+  }
+}
